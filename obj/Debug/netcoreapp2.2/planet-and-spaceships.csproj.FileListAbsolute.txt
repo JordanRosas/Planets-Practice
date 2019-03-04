@@ -1,0 +1,11 @@
+C:\Users\Jordan\backend\workspace\planet-and-spaceships\bin\Debug\netcoreapp2.2\planet-and-spaceships.deps.json
+C:\Users\Jordan\backend\workspace\planet-and-spaceships\bin\Debug\netcoreapp2.2\planet-and-spaceships.runtimeconfig.json
+C:\Users\Jordan\backend\workspace\planet-and-spaceships\bin\Debug\netcoreapp2.2\planet-and-spaceships.runtimeconfig.dev.json
+C:\Users\Jordan\backend\workspace\planet-and-spaceships\bin\Debug\netcoreapp2.2\planet-and-spaceships.dll
+C:\Users\Jordan\backend\workspace\planet-and-spaceships\bin\Debug\netcoreapp2.2\planet-and-spaceships.pdb
+C:\Users\Jordan\backend\workspace\planet-and-spaceships\obj\Debug\netcoreapp2.2\planet-and-spaceships.csprojAssemblyReference.cache
+C:\Users\Jordan\backend\workspace\planet-and-spaceships\obj\Debug\netcoreapp2.2\planet-and-spaceships.csproj.CoreCompileInputs.cache
+C:\Users\Jordan\backend\workspace\planet-and-spaceships\obj\Debug\netcoreapp2.2\planet-and-spaceships.AssemblyInfoInputs.cache
+C:\Users\Jordan\backend\workspace\planet-and-spaceships\obj\Debug\netcoreapp2.2\planet-and-spaceships.AssemblyInfo.cs
+C:\Users\Jordan\backend\workspace\planet-and-spaceships\obj\Debug\netcoreapp2.2\planet-and-spaceships.dll
+C:\Users\Jordan\backend\workspace\planet-and-spaceships\obj\Debug\netcoreapp2.2\planet-and-spaceships.pdb
